@@ -19,7 +19,7 @@ describe('Token', () => {
   })
 
   describe('Deployment', () => {
-    const name = 'ERR University'
+    const name = 'ERRR University'
     const symbol = 'DAPP'
     const decimals = '18'
     const totalSupply = tokens('1000000')
